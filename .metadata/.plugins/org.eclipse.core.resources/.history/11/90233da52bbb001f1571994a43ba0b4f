@@ -1,0 +1,5 @@
+package com.saraicarhuayo.app02.controller;
+
+public class HelloController {
+
+}
